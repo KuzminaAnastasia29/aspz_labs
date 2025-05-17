@@ -50,7 +50,7 @@ int main() {
             if (answer[0] == 'y' || answer[0] == 'Y') {
                 mode_t new_mode = st.st_mode | S_IROTH;
                 if (chmod(entry->d_name, new_mode) == 0) {
-                    printf("Дозвіл надано ✅\n");
+                    printf("Дозвіл надано \n");
                 } else {
                     perror("chmod");
                 }
