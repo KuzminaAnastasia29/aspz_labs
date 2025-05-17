@@ -252,7 +252,6 @@ Using memory at iteration 1
 Using memory at iteration 2
 Using memory at iteration 3
 ```
-✅ lab4/4-5/README.md
 # Завдання 4.5 — Помилка realloc(3)
 
 ## Формулювання завдання
@@ -340,7 +339,7 @@ Before realloc(ptr, 0): 0x2dea74e09020
 After realloc(ptr, 0): 0x2dea74e08008
 realloc(NULL, 0): 0x2dea74e08010 (may be NULL or valid ptr)
 ```
-✅ lab4/4-7/README.md
+
 # Завдання 4.7 — Використання reallocarray(3)
 
 ## Формулювання завдання
