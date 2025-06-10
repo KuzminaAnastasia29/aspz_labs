@@ -194,8 +194,8 @@ int main() {
 ```
 ## Компіляція
 ```
-root@host:/home/guest/aspz_labs/lab2 # cc -Wall -o variant9 variant9.c
-root@host:/home/guest/aspz_labs/lab2 # ./variant9
+root@host:/home/guest/aspz_labs/lab10-11 # cc -Wall -o variant9 variant9.c
+root@host:/home/guest/aspz_labs/lab10-11 # ./variant9
 
 ```
 ## Результати дослідження
